@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/overview_layout_margin">
+
+    <TextView
+        android:id="@+id/tv_trailer_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@mipmap/ic_launcher_trailer"
+        android:drawablePadding="4dp"
+        android:drawableStart="@mipmap/ic_launcher_trailer"
+        android:paddingBottom="3dp"
+        android:paddingTop="3dp"
+        android:textSize="18sp"
+        android:gravity="center_vertical"
+        tools:text="Trailer 1" />
+
+</LinearLayout>

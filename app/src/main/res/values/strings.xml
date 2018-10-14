@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="error_message">Sorry! An error occurred. Please try again.</string>
+    <string name="error_title">Oops! Sorry</string>
+    <string name="error_dialog_message">Oops check your internet!</string>
+    <string name="error_positive_button_text">OK</string>
+    <string name="popular_button">Popular Movies</string>
+    <string name="top_rated_button">Top Rated Movies</string>
+    <string name="favorite_button">Favorite Movies</string>
+    <string name="title">Title</string>
+    <string name="release_date">2017</string>
+    <string name="rating">5.8/10</string>
+    <string name="API">Your api goes here</string> //hey there,here's what you are searching for :)
+    <string name="overview">Movie plot </string>
+    <string name="app_child_name">Movie Details</string>
+    <string name="popular">popular</string>
+    <string name="top_rated">top_rated</string>
+    <string name="favorite">favorite</string>
+    <string name="review">Review</string>
+    <string name="splash">POWERED BY TMDB</string>
+    <string name="tab">tab</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="error_textview_padding">16dp</dimen>
+    <dimen name="error_textsize">20sp</dimen>
+    <dimen name="progressbar_height">42dp</dimen>
+    <dimen name="progressbar_width">42dp</dimen>
+    <dimen name="title_layout_height">75dp</dimen>
+    <dimen name="title_paddingLeft">25dp</dimen>
+    <dimen name="title_paddingTop">5dp</dimen>
+    <dimen name="horizontal_layout_margin">16dp</dimen>
+    <dimen name="vertical_layout_margin">16dp</dimen>
+    <dimen name="release_textsize">20sp</dimen>
+    <dimen name="rating_marginTop">5dp</dimen>
+    <dimen name="overview_layout_margin">20dp</dimen>
+    <dimen name="imageview_margin">5dp</dimen>
+    <dimen name="tabLayout_elevation">6dp</dimen>
+    <dimen name="app_bar_height">350dp</dimen>
+    <dimen name="release_rating_width">100dp</dimen>
+    <dimen name="release_rating_marginLeft">30dp</dimen>
+    <dimen name="release_rating_marginBottom">60dp</dimen>
+    <dimen name="img_marginBottom">50dp</dimen>
+    <dimen name="img_marginRight">20dp</dimen>
+</resources>
